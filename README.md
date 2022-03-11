@@ -12,13 +12,13 @@
 
      🌱 I’m currently learning architecture and state management related to Mobile Development 🤳📱
  
-     👯 I’m looking to collaborate with other excellent students and looking a Tech-company for internship.
+     👯 I’m looking forward to collaborating with other excellent students and applying a Tech-company for internship.
 
-     🥅 2022 Goals: Learn more about Mobile Development, especially cross-platform like Flutter, React-Native,...
+     🥅 2022 Goals: Learn more about Mobile Development, especially cross-platform frameworks like Flutter, React-Native,...
 
-     ⚡ Fun fact: I love to learn English and K-Pop dance. In the past, my second choice was English Major besidesIT.
+     ⚡ Fun fact: I love to learn English and practice K-Pop dance. In the past, my second choice was English Major besides IT.
 
-     👍 Good at English and I'm currently an irreplaceable members of my English Club in the Univesity.
+     👍 Good at English and I'm currently an irreplaceable member of my English Club in the Univesity.
 
 
 ## 👨‍💻 **Currently most used languages & frameworks**
