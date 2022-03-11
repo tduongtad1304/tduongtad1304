@@ -39,19 +39,19 @@
 <h3 align="center"><b>Other Languages and Tools I Recently Use</b></h3>
 <br>
 <p align="center">
-    <img alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-    <img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-    <img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-    <img alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-    <img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-    <img alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-    <img alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-    <img alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-    <img alt="Firebase" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
-    <img alt="GoogleCloud" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
-    <img alt="Solidity" width="22px" src="https://user-images.githubusercontent.com/70565731/157867181-fbb37957-f3a3-4c53-9ee2-b1120d208c32.svg" style="padding-right:10px;" />
-    <img alt="Ethereum" width="31px" src="https://user-images.githubusercontent.com/70565731/157867934-2b910c33-f5fb-4d88-ade9-8b98896a7948.png" style="padding-right:10px;" />
-    <img alt="Postman" width="33px" src="https://user-images.githubusercontent.com/70565731/157870665-116d3603-528b-4725-892a-f8bfc7b1f152.png" style="padding-right:10px;" />
+    <img alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
+    <img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
+    <img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />
+    <img alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:20px;" />
+    <img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
+    <img alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:20px;" />
+    <img alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:20px;" />
+    <img alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
+    <img alt="Firebase" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:20px;" />
+    <img alt="GoogleCloud" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:20px;" />
+    <img alt="Solidity" width="22px" src="https://user-images.githubusercontent.com/70565731/157867181-fbb37957-f3a3-4c53-9ee2-b1120d208c32.svg" style="padding-right:20px;" />
+    <img alt="Ethereum" width="31px" src="https://user-images.githubusercontent.com/70565731/157867934-2b910c33-f5fb-4d88-ade9-8b98896a7948.png" style="padding-right:20px;" />
+    <img alt="Postman" width="33px" src="https://user-images.githubusercontent.com/70565731/157870665-116d3603-528b-4725-892a-f8bfc7b1f152.png" style="padding-right:20px;" />
 </p>
 <br />
 
