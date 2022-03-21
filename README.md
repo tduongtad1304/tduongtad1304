@@ -7,6 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thaiduongtad/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tad_wils0n/)
 [![Facebook](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tduongtad1304)
+![Profile View](https://komarev.com/ghpvc/?username=tduongtad1304&color=blue&style=for-the-badge)
 
 ## 💁‍♂️ **I'm currently a Student majoring at Information Technology, Software Technology Specialization.**
 
