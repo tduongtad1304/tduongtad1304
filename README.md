@@ -61,7 +61,7 @@
   <a href="https://github.com/tduongtad1304/shopping_cart/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=shopping_cart&theme=dark" height="150px" width="400px"/></a>
   <a href="https://github.com/tduongtad1304/bloc_demo/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=bloc_demo&theme=dark" height="150px" width="400px"/></a>
   <a href="https://github.com/tduongtad1304/FCM-API/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=FCM-API&theme=dark" height="150px" width="400px"/></a>
-  <a href="https://github.com/tduongtad1304/getx_statemanagement_examples/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=getx_statemanagement_examples&theme=dark" height="150px" width="400px"/></a>
+  <a href="https://github.com/tduongtad1304/slider_controller/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=slider_controller&theme=dark" height="150px" width="400px"/></a>
 </p>
 
 &nbsp;
