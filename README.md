@@ -59,9 +59,9 @@
 ## 🆙 **Most recent repositories** 
 <p align="center">
   <a href="https://github.com/tduongtad1304/shopping_cart/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=shopping_cart&theme=dark" height="150px" width="400px"/></a>
-  <a href="https://github.com/tduongtad1304/bloc_demo/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=bloc_demo&theme=dark" height="150px" width="400px"/></a>
+  <a href="https://github.com/tduongtad1304/todo_bloc/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=todo_bloc&theme=dark" height="150px" width="400px"/></a>
   <a href="https://github.com/tduongtad1304/FCM-API/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=FCM-API&theme=dark" height="150px" width="400px"/></a>
-  <a href="https://github.com/tduongtad1304/slider_controller/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=slider_controller&theme=dark" height="150px" width="400px"/></a>
+  <a href="https://github.com/tduongtad1304/weather_apps/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tduongtad1304&repo=weather_apps&theme=dark" height="150px" width="400px"/></a>
 </p>
 
 &nbsp;
