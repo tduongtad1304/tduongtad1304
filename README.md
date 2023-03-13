@@ -9,13 +9,11 @@
 [![Facebook](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tduongtad1304)
 ![Profile View](https://komarev.com/ghpvc/?username=tduongtad1304&color=blue&style=for-the-badge)
 
-## 💁‍♂️ **I'm currently a Student majoring at Information Technology, Software Technology Specialization.**
+## 💁‍♂️ **I'm currently a Student majoring at Information Technology, Software Technology Specialization as well as workings as a Mobile Developer at Vinova PTE.**
 
      🌱 I’m currently learning architecture and state management related to Mobile Development 🤳📱
- 
-     👯 I’m looking forward to collaborating with other excellent students and applying a Tech-company for internship.
 
-     🥅 2022 Goals: Learn more about Mobile Development, especially cross-platform frameworks like Flutter, React-Native,...
+     🥅 2023 Goals: Learn more about Mobile Development, especially cross-platform frameworks like Flutter, React-Native,...
 
      ⚡ Fun fact: I love to learn English and practice K-Pop dance. In the past, my second choice was English Major besides IT.
 
@@ -80,7 +78,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/tduongtad1304"><img alt="TAD's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tduongtad1304&custom_title=TAD's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/tduongtad1304"><img alt="TAD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tduongtad1304&theme=react-dark" /></a>
   <br/>
 
 <h2 align="center"><i>Created by @Tad on March 11th, 2022<i></h2>
